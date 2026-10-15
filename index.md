@@ -4,9 +4,9 @@ title: Receipt Keeper Privacy Policy
 
 # Receipt Keeper Privacy Policy
 
-**Effective date:** October 15, 2026
-**Developer:** Unbladed
-**Contact:** [gzilla1999@gmail.com](mailto:gzilla1999@gmail.com)
+- **Effective date:** October 15, 2026
+- **Developer:** Unbladed
+- **Contact:** [gzilla1999@gmail.com](mailto:gzilla1999@gmail.com)
 
 Receipt Keeper is an app for keeping receipts and tracking return windows and warranties. It was built so that your information never leaves your device unless you decide to move it yourself.
 
